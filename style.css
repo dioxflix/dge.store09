@@ -8,13 +8,16 @@ h1 {
 }
 
 img {
-  width: 300px;
+  width: 500px;
   border-radius: 60px;
 }
+
 button {
   padding: 10px 20px;
   font-size: 18px;
   color:red;
   font-family:Seagram;
-   border-radius: 60px;
+   border-radius: 90px;
 }
+p{color:black;
+font-family: Seagram}

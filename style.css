@@ -22,7 +22,6 @@
   flex-wrap: wrap;
   margin-top: 50px;
 }
-
 .card {
   width: 20%;
   background: rgba(255,255,255,0.08);
@@ -33,12 +32,10 @@
   text-align: center;
   transition: 0.3s;
 }
-
 .card:hover {
   transform: translateY(-10px);
   box-shadow: 0 0 20px red;
 }
-
 .card h3 {
   color: red;
   margin-bottom: 15px;
@@ -85,15 +82,13 @@ button img {
   height: 20px;
   object-fit: contain;
 }
-
 button:hover {
   background: #111;
   color: white;
   transform: translateY(-5px);
   box-shadow: 0 10px 20px rgba(255,255,255,0.2);
 }
-  
-button img {
+  button img {
   width: 30px;
   height: 30px;
 }
@@ -116,7 +111,6 @@ img:hover {
   box-shadow: 0 20px 40px rgba(255,255,255,0.15);
 }
 }
-
 .dge,
 .air,
 .max,
